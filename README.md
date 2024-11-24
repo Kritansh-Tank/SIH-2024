@@ -1,4 +1,4 @@
-# SIH 2024
+# Problem Statement from SIH 2024
 
 ## <div style="margin-left:10px;">Problem Statement ID
 
