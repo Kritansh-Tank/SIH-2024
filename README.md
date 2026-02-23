@@ -27,3 +27,7 @@ There are numerous engineering and polytechnic institutes in Rajasthan running u
 2. Enhanced User Experience: Design an intuitive interface that allows users to navigate easily and find information quickly. The interface should be straightforward, accessible on common platform, and capable of understanding natural language, ensuring user-friendliness.
 3. Reduced Workload: By automating responses to Frequently Asked Questions (FAQ’s), the chatbot will reduce the workload on department staff, allowing them to concentrate on more complex and urgent tasks.
 4. Data Insights: The chatbot will gather valuable data from user interactions, helping the department to identify common concerns and optimize it’s services based on these insights.
+
+## License
+
+Apache-2.0 License - See LICENSE file for details
